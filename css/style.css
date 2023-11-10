@@ -109,7 +109,6 @@ body {
 .hero {
   position: relative;
   display: flex;
-  width: 100%;
   min-height: 100vh;
   background: #111 url("../images/code3.jpg") center no-repeat; /* https://unsplash.com/photos/a-desk-with-a-computer-monitor-and-keyboard-on-it-OVbeSXRk_9E */
   background-size: cover;
